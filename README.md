@@ -1,3 +1,3 @@
 Nutilities
 
-View the different folders for chosen area of interest, featuring econometric analyses of various data.
+View the different folders for various topics. This repository features econometric analyses of structured and unstructured data sources.
