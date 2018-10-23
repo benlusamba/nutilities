@@ -9,5 +9,5 @@ This repository features econometric analyses of structured and unstructured dat
 3. <a href="https://github.com/benlusamba/nutilities/tree/master/ETFs" target="_blank">Exchange Traded Funds (ETFs)</a>
 4. <a href="https://github.com/benlusamba/nutilities/tree/master/FX" target="_blank">Foreign Exchange (FX)</a>
 5. <a href="https://github.com/benlusamba/nutilities/tree/master/Soy" target="_blank">Commodities (FX)</a>
-6. <a href="ttps://github.com/benlusamba/nutilities/tree/master/Stock" target="_blank">Equities (FX)</a>
+6. <a href="https://github.com/benlusamba/nutilities/tree/master/Stock" target="_blank">Equities (FX)</a>
 
