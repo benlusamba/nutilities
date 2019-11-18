@@ -1,6 +1,6 @@
 # Nutilities
 
-This repository features econometric analyses of structured and unstructured data. Topics range from commodity trading to derivative pricing, to Natural Language Processing and Inflation.
+This repository features econometric analyses of structured and unstructured data. ML for Quant Finance is the main focus:
 
 ## Contents
 
